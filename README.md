@@ -4,7 +4,7 @@
 
 # Hi, I'm Vishal Patil 👋
 
-### Data Analyst · Insight Analyst · Data Scientist
+### Data Analyst · BI Analyst · Insight Analyst
 
 Turning messy data into decisions — across financial services, retail, and housing.
 
@@ -18,13 +18,13 @@ Turning messy data into decisions — across financial services, retail, and hou
 
 ## About Me
 
-I'm a data analyst and analytics engineer with **3.7 years of experience** building end-to-end analytics solutions across financial services and retail. I spent nearly 3 years in London working with enterprise teams at **JD Sports Fashion** and **A2Dominion Group**, partnering directly with CFOs, CTOs, and senior leadership to turn complex data into strategic decisions.
+I'm a data and BI analyst with **3+ years of experience, including a one-year analytics internship**. I spent over two years working in London at **JD Sports Fashion** and **A2Dominion Group**, turning complex retail, housing, finance, and operational data into decision-ready reporting and insight.
 
-Recently relocated back to India, I'm building at the intersection of analytics, AI, and product — using Claude and agentic workflows daily to accelerate analysis and ship insights faster.
+Recently relocated to India, I am strengthening my analytics-engineering capability through hands-on projects while continuing to focus on advanced SQL, Power BI, semantic modelling, Python, and data quality.
 
 > "Strong analytical rigour, curiosity and the ability to turn complex data into actionable intelligence." — **Ann Tonner**, Head of Data & BI, A2Dominion Group
 
-**Open to:** Senior Data Analyst, Analytics Engineer, and Data Scientist roles — India & remote international.
+**Open to:** Senior Data Analyst, BI Analyst, Insight Analyst, and selected Analytics Engineer roles — India and UK relocation.
 
 ---
 
@@ -33,7 +33,7 @@ Recently relocated back to India, I'm building at the intersection of analytics,
 | | |
 |---|---|
 | **Analytics & Viz** | Power BI (Advanced DAX, M, Semantic Models) · Tableau · GA4 · Looker / Metabase · Advanced Excel |
-| **Languages** | Advanced SQL (CTEs, Window Fns, Optimisation) · Python (Pandas, NumPy, Scikit-learn, XGBoost, SHAP) · dbt |
+| **Languages** | Advanced SQL (CTEs, Window Functions, Optimisation) · Python (Pandas, NumPy, Scikit-learn, XGBoost, SHAP) · dbt (project-based) |
 | **Data Engineering** | Azure Synapse Analytics · GCP BigQuery · Databricks / Spark · Medallion Architecture · ETL/ELT Design |
 | **Statistics & ML** | A/B Testing & Experimental Design · XGBoost, Random Forest, Logistic Regression · Cohort & Retention Modelling · SHAP Explainability · Anomaly Detection |
 | **Domain** | Financial Analytics · Credit Risk & Portfolio Management · Product Analytics (Funnels, Cohorts, LTV, Churn) · Retail Analytics · Campaign Performance · Data Governance |
@@ -55,7 +55,7 @@ UK's largest sports fashion retailer — 220+ locations, 1M+ daily online transa
 - Analysed subscription cohorts (retention, LTV, churn) across EMEA to inform geo-expansion strategy
 - Ran A/B tests on marketing campaigns (t-tests, diff-in-diff); reported brand performance to the **Commercial Head, Head of Retail, and CFO**
 
-**Junior Data Scientist** — GEAR Gemini Equipment & Rentals, Mumbai, India *(Jun 2020 – Jun 2021)*
+**Data Analytics Intern** — GEAR Gemini Equipment & Rentals, Mumbai, India *(Jun 2020 – Jun 2021)*
 - Built Python/SQL ETL pipelines automating operational reporting, improving delivery speed by **90%**
 
 ---
