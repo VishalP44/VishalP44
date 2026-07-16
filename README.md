@@ -55,7 +55,7 @@ The UK's largest sports fashion retailer, with 220+ locations and 1M+ daily onli
 - Analysed subscription cohorts (retention, LTV, churn) across EMEA to inform geo-expansion strategy
 - Ran A/B tests on marketing campaigns (t-tests, diff-in-diff); reported brand performance to the **Commercial Head, Head of Retail, and CFO**
 
-**Data Analytics Intern**, GEAR Gemini Equipment & Rentals, Mumbai, India *(Jun 2020 to Jun 2021)*
+**Junior Data Scientist**, GEAR Gemini Equipment & Rentals, Mumbai, India *(Jun 2020 to Jun 2021)*
 - Built Python/SQL ETL pipelines automating operational reporting, improving delivery speed by **90%**
 
 ---
