@@ -81,16 +81,13 @@ One of the UK's largest sports fashion retailers operating across retail stores 
 
 # 🚀 Featured Projects
 
+These projects represent the type of analytical work I enjoy most—solving customer, commercial and operational business problems through data.
+
 | Project | Description | Technology |
 |---|---|---|
-| [**Sales Pipeline Analytics & Forecasting**](https://github.com/VishalP44/sales-pipeline-analytics) | End-to-end commercial analytics platform analysing pipeline performance, stage conversion, forecasting accuracy and revenue trends. | Python · SQL · Streamlit · Plotly |
-| [**Thin-File Borrower Risk Assessment**](https://github.com/VishalP44/Thin-File-Borrower-Risk-Assessment-Platform) | Credit risk analytics platform using alternative financial signals and explainable machine learning to evaluate applicants with limited credit history. | Python · XGBoost · SHAP · SQL |
-| [**Predictive Complaint Risk Model**](https://github.com/VishalP44/Complaint_Prediction_Case_Study) | NLP-based customer insights project identifying service interactions likely to escalate into formal complaints. | Python · NLP · XGBoost |
-| [**ETL Pipeline with Data Quality Framework**](https://github.com/VishalP44/ETL-Pipeline-with-Data-Quality-Framework) | Production-style ETL pipeline featuring automated validation, data quality scoring and reusable transformation workflows. | Python · SQLite · Pandas |
-| [**HMDA LAR Reconciliation Pipeline**](https://github.com/VishalP44/Post-Submission-Review-of-HMDA-LAR-Reporting-Pipeline) | Regulatory data quality framework validating mortgage reporting datasets through SQL reconciliation and audit rules. | Python · SQL · Pandas |
-| [**NLP Text Classification Research**](https://github.com/VishalP44/Enhancing-Text-Classification-Hindi-Dataset-vs.-Translation-Based-English-Dataset) | MSc dissertation comparing multilingual NLP approaches using classical machine learning and BERT. | Python · Transformers · BERT |
-| [**Ad-hoc Insights (AtliQ Hardware)**](https://github.com/VishalP44/Ad-hoc-Insights) | SQL case study answering business questions across sales performance, customers and market trends. | SQL · Power BI |
-| [**BI Health Check (bicheck)**](https://github.com/VishalP44/bicheck) | Python CLI utility auditing BI reports against data modelling and reporting best practices. | Python |
+| [**Sales Pipeline Analytics & Forecasting**](https://github.com/VishalP44/sales-pipeline-analytics) | End-to-end commercial analytics platform analysing sales funnels, pipeline health, conversion rates and revenue forecasting. Demonstrates SQL analytics, business storytelling and interactive dashboards. | Python · SQL · Streamlit · Plotly |
+| [**Predictive Complaint Risk Model**](https://github.com/VishalP44/Complaint_Prediction_Case_Study) | Customer analytics case study using NLP and machine learning to identify service interactions likely to escalate into formal complaints, enabling proactive intervention. | Python · NLP · XGBoost · Scikit-learn |
+| [**Thin-File Borrower Risk Assessment**](https://github.com/VishalP44/Thin-File-Borrower-Risk-Assessment-Platform) | Credit risk analytics platform using alternative financial signals and explainable machine learning to assess applicants with limited credit history. | Python · XGBoost · SHAP · SQL |
 
 ---
 
