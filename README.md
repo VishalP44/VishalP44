@@ -4,9 +4,9 @@
 
 # Hi, I'm Vishal Patil 👋
 
-### Data Analyst · BI Analyst · Insight Analyst
+### Product Analytics · Commercial Analytics · Business Intelligence
 
-Turning messy data into decisions across financial services, retail and housing.
+Helping businesses solve customer, commercial and operational problems through analytics.
 
 [![Email](https://img.shields.io/badge/Email-vishalrpatil2010%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vishalrpatil2010@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vishalrpatill-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalrpatill/)
@@ -16,74 +16,117 @@ Turning messy data into decisions across financial services, retail and housing.
 
 ---
 
-## About Me
+# About Me
 
-I'm a data and BI analyst with **3+ years of experience, including a one-year analytics internship**. I spent over two years working in London at **JD Sports Fashion** and **A2Dominion Group**, turning complex retail, housing, finance, and operational data into decision-ready reporting and insight.
+I'm an analytics professional with experience across retail, financial reporting and operational analytics, helping organisations answer commercial questions through data.
 
-Recently relocated to India, I am strengthening my analytics-engineering capability through hands-on projects while continuing to focus on advanced SQL, Power BI, semantic modelling, Python, and data quality.
+Over the past three years, I've worked with SQL, Python and Power BI to improve reporting reliability, analyse customer behaviour, optimise business performance and automate analytical workflows. My experience spans commercial analytics at **JD Sports Fashion** and enterprise reporting at **A2Dominion Group** in London.
 
-> "Strong analytical rigour, curiosity and the ability to turn complex data into actionable intelligence." (**Ann Tonner**, Head of Data & BI, A2Dominion Group)
+Alongside my professional experience, I build end-to-end analytics case studies covering product analytics, customer insights, credit risk, NLP, experimentation and analytics engineering to continuously strengthen both my analytical and engineering capabilities.
 
-**Open to:** Senior Data Analyst, BI Analyst, Insight Analyst and selected Analytics Engineer roles in India, as well as UK roles offering relocation and sponsorship.
+> **"Strong analytical rigour, curiosity and collaboration, with the ability to turn complex data into information the business can act on."**  
+> — **Ann Tonner**, Head of Data & BI, A2Dominion Group
 
 ---
 
-## 🧰 Skills
+# 🧰 Technical Skills
 
 | | |
 |---|---|
-| **Analytics & Viz** | Power BI (Advanced DAX, M, Semantic Models) · Tableau · GA4 · Looker / Metabase · Advanced Excel |
-| **Languages** | Advanced SQL (CTEs, Window Functions, Optimisation) · Python (Pandas, NumPy, Scikit-learn, XGBoost, SHAP) · dbt (project-based) |
-| **Data Engineering** | Azure Synapse Analytics · GCP BigQuery · Databricks / Spark · Medallion Architecture · ETL/ELT Design |
-| **Statistics & ML** | A/B Testing & Experimental Design · XGBoost, Random Forest, Logistic Regression · Cohort & Retention Modelling · SHAP Explainability · Anomaly Detection |
-| **Domain** | Financial Analytics · Credit Risk & Portfolio Management · Product Analytics (Funnels, Cohorts, LTV, Churn) · Retail Analytics · Campaign Performance · Data Governance |
-| **AI-First** | Claude API & Prompt Engineering · Agentic Pipelines · MCP Integrations · Automated Reporting Frameworks |
+| **Analytics & Visualisation** | Power BI (Advanced DAX, M, Semantic Models) · Tableau · GA4 · Looker / Metabase · Advanced Excel |
+| **Programming** | Advanced SQL (CTEs, Window Functions, Query Optimisation) · Python (Pandas, NumPy, Scikit-learn, XGBoost, SHAP) · dbt (Project Experience) |
+| **Data Engineering** | Azure Synapse Analytics · GCP BigQuery · Databricks / Spark · Medallion Architecture · ETL / ELT Design |
+| **Statistics & Machine Learning** | A/B Testing · Experimental Design · Logistic Regression · Random Forest · XGBoost · SHAP Explainability · Cohort Analysis · Customer Segmentation |
+| **Business Analytics** | Product Analytics · Commercial Analytics · Customer Insights · Marketing Analytics · Financial Analytics · Credit Risk · Data Governance |
+| **AI & Automation** | LLM Applications · Prompt Engineering · MCP Integrations · Agentic Workflows · Automated Reporting |
 
 ---
 
-## 💼 Experience
+# 💼 Professional Experience
 
-**Insight Analyst**, A2Dominion Group, London, UK *(Nov 2024 to Jan 2026)*
+## Insight Analyst
+**A2Dominion Group — London, UK**  
+*Nov 2024 – Jan 2026*
+
 Housing association managing 38,000+ homes across London and South East England.
-- Migrated legacy SSRS reports to Power BI; built a star-schema semantic model achieving **100% reconciliation accuracy**, cutting ad-hoc requests by **75%**
-- Built an XGBoost tenant-default-risk model, operationalised into a Power BI traffic-light dashboard for proactive intervention
-- Authored a data-driven business case presented directly to the **CFO**, securing investment in modern data infrastructure
 
-**Insight Analyst**, JD Sports Fashion, London, UK *(Sep 2023 to Nov 2024)*
-The UK's largest sports fashion retailer, with 220+ locations and 1M+ daily online transactions.
-- Built a Power BI dashboard refreshing every **5 minutes** across 220+ store locations
-- Analysed subscription cohorts (retention, LTV, churn) across EMEA to inform geo-expansion strategy
-- Ran A/B tests on marketing campaigns (t-tests, diff-in-diff); reported brand performance to the **Commercial Head, Head of Retail, and CFO**
-
-**Junior Data Scientist**, GEAR Gemini Equipment & Rentals, Mumbai, India *(Jun 2020 to Jun 2021)*
-- Built Python/SQL ETL pipelines automating operational reporting, improving delivery speed by **90%**
+- Achieved **100% reconciliation accuracy** by validating finance reporting logic while migrating SSRS reports into Power BI semantic models.
+- Reduced ad-hoc reporting requests by **75%** through self-service executive dashboards and KPI standardisation.
+- Saved **15+ hours per week** by automating SQL, Power Query and Power BI reporting workflows.
+- Collaborated with finance, operations and data engineering teams to improve reporting quality and data validation.
 
 ---
 
-## 🚀 Featured Projects
+## Insight Analyst
+**JD Sports Fashion — London, UK**  
+*Sep 2023 – Nov 2024*
 
-| Project | What it does | Stack |
+One of the UK's largest sports fashion retailers operating across retail stores and digital channels.
+
+- Analysed customer clickstream data to identify checkout friction points and support conversion optimisation initiatives.
+- Delivered commercial performance reporting across **220+ retail and digital locations** using Power BI and Tableau.
+- Conducted customer segmentation and cohort analysis using SQL and Python to support marketing decision-making.
+- Supported ETL/ELT validation and analytical modelling within Databricks.
+
+---
+
+## Junior Data Scientist
+**GEAR – Gemini Equipment & Rentals — Mumbai, India**  
+*Jun 2020 – Jun 2021*
+
+- Automated operational reporting workflows using Python, SQL and Power BI, reducing reporting turnaround time by **90%**.
+- Built reporting validation checks and supported predictive maintenance analytics.
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Technology |
 |---|---|---|
-| [**Thin-File Borrower Risk Assessment**](https://github.com/VishalP44/Thin-File-Borrower-Risk-Assessment-Platform) | Credit risk pipeline for applicants with insufficient credit history, using alternative signals (utility, rent, banking, employment). Dual XGBoost models + SHAP explainability + Streamlit dashboard. | Python · XGBoost · SHAP · SQL · Streamlit |
-| [**Predictive Complaint Risk Model**](https://github.com/VishalP44/Complaint_Prediction_Case_Study) | Flags repair jobs likely to escalate into formal complaints before they do, enabling early intervention. Replicates a production engagement (0.88 AUC-ROC, £120k projected annual savings). | Python · XGBoost · Scikit-learn |
-| [**HMDA LAR Reconciliation Pipeline**](https://github.com/VishalP44/Post-Submission-Review-of-HMDA-LAR-Reporting-Pipeline) | Regulatory compliance pipeline reconciling mortgage lending submission data, detecting material discrepancies and statistical drift between filings. | Python · Pandas · SciPy · Jupyter |
-| [**Sales Pipeline Analytics & Forecasting**](https://github.com/VishalP44/sales-pipeline-analytics) | End-to-end B2B analytics: pipeline funnel visibility, win-rate analysis, and probability-weighted revenue forecasting. | Python · SQL · Streamlit · Plotly |
-| [**ETL Pipeline with Data Quality Framework**](https://github.com/VishalP44/ETL-Pipeline-with-Data-Quality-Framework) | Reusable Extract→Validate→Transform→Load pipeline with a rule-based data quality scorecard (completeness, uniqueness, validity). | Python · Pandas · SQLite |
-| [**Ad-hoc Insights (AtliQ Hardware)**](https://github.com/VishalP44/Ad-hoc-Insights) | SQL case study answering 10 business questions about market presence, sales trends, discounts and channel performance for a fictional hardware manufacturer. | SQL · Power BI |
-| [**BI Health Check (bicheck)**](https://github.com/VishalP44/bicheck) | CLI tool that audits Power BI and Tableau report files locally, scoring them from 0 to 100 against rules for visuals, measures and relationships. | Python · Rich CLI |
-| [**NLP Text Classification: Hindi vs. Translated English**](https://github.com/VishalP44/Enhancing-Text-Classification-Hindi-Dataset-vs.-Translation-Based-English-Dataset) | MSc dissertation comparing Logistic Regression, Random Forest, Naive Bayes and BERT on native Hindi and machine-translated English cyberbullying text. Translation improved accuracy for three of the four models (BERT: 86.5% to 94.7%), probably because the model's pretraining was weighted toward English. | Python · BERT · Scikit-learn · Transformers |
+| [**Sales Pipeline Analytics & Forecasting**](https://github.com/VishalP44/sales-pipeline-analytics) | End-to-end commercial analytics platform analysing pipeline performance, stage conversion, forecasting accuracy and revenue trends. | Python · SQL · Streamlit · Plotly |
+| [**Thin-File Borrower Risk Assessment**](https://github.com/VishalP44/Thin-File-Borrower-Risk-Assessment-Platform) | Credit risk analytics platform using alternative financial signals and explainable machine learning to evaluate applicants with limited credit history. | Python · XGBoost · SHAP · SQL |
+| [**Predictive Complaint Risk Model**](https://github.com/VishalP44/Complaint_Prediction_Case_Study) | NLP-based customer insights project identifying service interactions likely to escalate into formal complaints. | Python · NLP · XGBoost |
+| [**ETL Pipeline with Data Quality Framework**](https://github.com/VishalP44/ETL-Pipeline-with-Data-Quality-Framework) | Production-style ETL pipeline featuring automated validation, data quality scoring and reusable transformation workflows. | Python · SQLite · Pandas |
+| [**HMDA LAR Reconciliation Pipeline**](https://github.com/VishalP44/Post-Submission-Review-of-HMDA-LAR-Reporting-Pipeline) | Regulatory data quality framework validating mortgage reporting datasets through SQL reconciliation and audit rules. | Python · SQL · Pandas |
+| [**NLP Text Classification Research**](https://github.com/VishalP44/Enhancing-Text-Classification-Hindi-Dataset-vs.-Translation-Based-English-Dataset) | MSc dissertation comparing multilingual NLP approaches using classical machine learning and BERT. | Python · Transformers · BERT |
+| [**Ad-hoc Insights (AtliQ Hardware)**](https://github.com/VishalP44/Ad-hoc-Insights) | SQL case study answering business questions across sales performance, customers and market trends. | SQL · Power BI |
+| [**BI Health Check (bicheck)**](https://github.com/VishalP44/bicheck) | Python CLI utility auditing BI reports against data modelling and reporting best practices. | Python |
 
 ---
 
-## 🎓 Education
+# 🌱 Currently Exploring
 
-**MSc Big Data Science** *(Distinction)*, Queen Mary University of London *(2022 to 2023)*
-Thesis: NLP text classification comparing Hindi vs. translation-based English datasets for cyberbullying detection, using BERT and classical ML models.
-
-**BEng Electronics & Telecommunication Engineering**, University of Mumbai *(2018 to 2022)*
+- Product Analytics
+- Analytics Engineering
+- Experimentation & A/B Testing
+- Semantic Modelling
+- AI-assisted Analytics Workflows
 
 ---
 
-## 📫 Get in Touch
+# 🎓 Education
 
-[vishalrpatil2010@gmail.com](mailto:vishalrpatil2010@gmail.com) · [LinkedIn](https://www.linkedin.com/in/vishalrpatill/) · [Portfolio Site](https://vishalp44.github.io/Vishal_Patil_Portfolio/)
+**MSc Big Data Science (Distinction)**  
+**Queen Mary University of London** *(2022 – 2023)*
+
+Dissertation:
+**Multilingual NLP Text Classification using Classical Machine Learning and BERT**
+
+---
+
+**BE Electronics & Telecommunication Engineering**  
+**University of Mumbai** *(2018 – 2022)*
+
+---
+
+# 📫 Get in Touch
+
+📧 **Email:** [vishalrpatil2010@gmail.com](mailto:vishalrpatil2010@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/vishalrpatill/
+
+🌐 **Portfolio:** https://vishalp44.github.io/Vishal_Patil_Portfolio/
+
+---
+
+> Most repositories are built as end-to-end analytics case studies, combining business context, SQL/Python implementation, visualisation and executive-ready insights.
