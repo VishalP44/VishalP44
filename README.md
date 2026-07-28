@@ -85,6 +85,7 @@ These projects represent the type of analytical work I enjoy most—solving cust
 
 | Project | Description | Technology |
 |---|---|---|
+| [**Prompt-Driven Analytics Assistant**](https://github.com/VishalP44/prompt-driven-analytics-assistant) | AI-assisted analytics tool that turns natural-language questions into validated Python/SQL and scores outputs with an evaluation harness (4/4 pass). Practises the prompt → code → exec → eval pipeline. | Python · LLM tooling · Eval harness |
 | [**Sales Pipeline Analytics & Forecasting**](https://github.com/VishalP44/sales-pipeline-analytics) | End-to-end commercial analytics platform analysing sales funnels, pipeline health, conversion rates and revenue forecasting. Demonstrates SQL analytics, business storytelling and interactive dashboards. | Python · SQL · Streamlit · Plotly |
 | [**Predictive Complaint Risk Model**](https://github.com/VishalP44/Complaint_Prediction_Case_Study) | Customer analytics case study using NLP and machine learning to identify service interactions likely to escalate into formal complaints, enabling proactive intervention. | Python · NLP · XGBoost · Scikit-learn |
 | [**Thin-File Borrower Risk Assessment**](https://github.com/VishalP44/Thin-File-Borrower-Risk-Assessment-Platform) | Credit risk analytics platform using alternative financial signals and explainable machine learning to assess applicants with limited credit history. | Python · XGBoost · SHAP · SQL |
